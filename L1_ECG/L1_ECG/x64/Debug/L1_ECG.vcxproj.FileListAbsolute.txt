@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\L1_ECG\L1_ECG\x64\Debug\L1_ECG.vcxproj.CopyComplete
+C:\Users\user\Documents\GitHub\Labs_ECG\L1_ECG\L1_ECG\x64\Debug\L1_ECG.vcxproj.CopyComplete

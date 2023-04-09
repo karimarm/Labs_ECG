@@ -1,0 +1,3 @@
+﻿  L2.1_ECG.cpp
+C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.1_ECG\L2.1_ECG\L2.1_ECG.cpp(111,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  L2.1_ECG.vcxproj -> C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.1_ECG\x64\Debug\L2.1_ECG.exe
