@@ -9,8 +9,8 @@
 #include "glut_backend.h"
 #include "util.h"
 
-#define WINDOW_WIDTH  1280
-#define WINDOW_HEIGHT 1024
+#define WINDOW_WIDTH  600
+#define WINDOW_HEIGHT 600
 
 // Координаты вершин и текстуры
 struct Vertex
@@ -120,7 +120,7 @@ public:
         sl[1].Attenuation.Linear = 0.1f;
         sl[1].Cutoff = 10.0f;
 
-         m_pEffect->SetSpotLights(2, sl);
+        m_pEffect->SetSpotLights(2, sl);
 
 
          // Точечное освещение
@@ -140,7 +140,7 @@ public:
         pl[2].Position = Vector3f(-9.0f, 1.0f, 9.0f);
         pl[2].Attenuation.Linear = 0.1f;
 
-         m_pEffect->SetPointLights(3, pl);
+        m_pEffect->SetPointLights(3, pl);
 
          // Создаёт объект конвейера и настраивает его
         Pipeline p;
