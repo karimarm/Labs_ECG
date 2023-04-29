@@ -1,14 +1,4 @@
 ﻿  L2.2_ECG.cpp
 C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\L2.2_ECG.cpp(98,49): warning C4305: аргумент: усечение из "double" в "float"
 C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\L2.2_ECG.cpp(136,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
-  math_3d.cpp
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(39,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(39,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(40,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(40,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(41,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(41,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
-C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\L2.2_ECG\math_3d.cpp(91,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-  pipeline.cpp
-  Создание кода...
   L2.2_ECG.vcxproj -> C:\Users\user\Documents\GitHub\Labs_ECG\L2_ECG\L2.2_ECG\x64\Debug\L2.2_ECG.exe
